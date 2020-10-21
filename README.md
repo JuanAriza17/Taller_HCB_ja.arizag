@@ -1,2 +1,2 @@
 # Taller_HCB_ja.arizag
-Realiza por: Juan Andrés Ariza Gacharná 201911442
+Realizado por: Juan Andrés Ariza Gacharná 201911442
