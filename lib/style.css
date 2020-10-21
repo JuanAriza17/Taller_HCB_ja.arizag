@@ -1,0 +1,53 @@
+h1
+{
+  text-align: center;
+  font-family: century-gothic, sans-serif;
+  font-weight: bolder;
+  background-color: powderblue;
+}
+h2
+{
+  text-align: center;
+  font-family: century-gothic, sans-serif;
+  font-weight: bold;
+  
+}
+
+p
+{
+  font-family: century-gothic, sans-serif;
+  text-align: justify;
+}
+
+li
+{
+  text-align: center;
+  font-family: century-gothic, sans-serif;
+}
+img
+{
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+}
+
+#bloque_imagen
+{
+  background-color: chocolate;
+}
+
+#bloque_izq
+{
+  background-color: darkgoldenrod;
+}
+
+#bloque_der
+{
+  background-color: darkolivegreen;
+}
+
+a[href="https://es.wikipedia.org/wiki/Imagine_Dragons"]
+{
+  color:crimson;
+  text-decoration:underline;
+}
